@@ -25,6 +25,6 @@ pytz==2020.1
 selenium==3.141.0
 six==1.14.0
 sqlparse==0.3.1
-urllib3==1.25.9
+urllib3==1.26.5
 whitenoise==5.1.0
 wrapt==1.11.2
